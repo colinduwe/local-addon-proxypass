@@ -6,7 +6,7 @@
 	"keywords": [
 		"local-addon"
 	],
-	"bgColor": "#51bb7b",
+	"bgColor": "#010934",
 	"icon": "icon.svg",
 	"slug": "proxypass",
 	"description": "Proxy images from your production sites to your Local sites!",
