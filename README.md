@@ -1,4 +1,4 @@
-# Local Add-on Notes • [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/colinduwe/local-addon-proxypass/pulls/)
+# Local Add-on Proxy Images • [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/colinduwe/local-addon-proxypass/pulls/)
 
 ## Installation
 
@@ -8,8 +8,9 @@ Clone the repository into the following directory depending on your platform:
 
 - macOS: `~/Library/Application Support/Local by Flywheel/addons`
 
-### Install Dependencies
+### Install Dependencies and transpile files
 1. `yarn install`
+2. `yarn build`
 
 ## Development
 
