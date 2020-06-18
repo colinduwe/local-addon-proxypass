@@ -3,7 +3,7 @@
 This plugin allows nginx to serve images missing from your local site from your production server. 
 
 For example, if your local site is serving a page with a reference to an image:  
-https://www.example.local/wp-content/uploads/2020/01/cat.jpg. 
+https://www.example.local/wp-content/uploads/2020/01/cat.jpg.  
 and that file is not in your local site's file system it will try to serve the image from the production server (www.example.com). 
 https://www.example.com/wp-content/uploads/2020/01/cat.jpg  
 
